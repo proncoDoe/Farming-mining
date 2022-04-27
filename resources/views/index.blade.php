@@ -8,7 +8,7 @@
     <!-- Swiper -->
     <div class="swiper mySwiper">
         <div class="swiper-wrapper">
-            <div class="swiper-slide"> <img src="../../images/bitcoin33.png" alt="crypto img">
+            <div class="swiper-slide"> <img src="../../images/c2.jpg" alt="crypto img">
 
                 <div class="slider-text">
 
@@ -18,21 +18,13 @@
                 </div>
 
             </div>
-            <div class="swiper-slide"><img src="../../images/crypto6.jpg" alt="crypto img">
+            <div class="swiper-slide"><img src="../../images/c1.jpg" alt="crypto img">
 
                 <div class="slider-text">
                     <h1>We are a leading financial company with a
                         secure and certified status in the Uk 🇬🇧,</h1>
                 </div>
 
-            </div>
-            <div class="swiper-slide"><img src="../../images/crypto7.png" alt="crypto img">
-
-                <div class="slider-text">
-                    <h1> We create a secure and profitable means of investment
-                        for our investors,
-                        partners worldwide to invest and earn from our various investment plan</h1>
-                </div>
             </div>
         </div>
         <div class="swiper-pagination"></div>
