@@ -166,7 +166,7 @@
     <section id="topbar" class="d-flex align-items-center">
         <div class="container d-flex justify-content-center justify-content-md-between">
             <div class="contact-info d-flex align-items-center">
-                <i class="bi bi-geo-alt d-flex align-items-center"><a href="mailto:contact@example.com">Leicester Square
+                <i class="bi bi-geo-alt d-flex align-items-center"><a href="mailto:contact@example.com">
                         New york, Block 7LU Ma</a></i>
                 &nbsp;&nbsp;&nbsp;
                 <i class="bi  bi-telephone d-flex align-items-center ms-4"><span>+1 7908 617669</span></i>
