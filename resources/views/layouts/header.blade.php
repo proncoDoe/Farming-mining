@@ -167,9 +167,9 @@
         <div class="container d-flex justify-content-center justify-content-md-between">
             <div class="contact-info d-flex align-items-center">
                 <i class="bi bi-geo-alt d-flex align-items-center"><a href="mailto:contact@example.com">Leicester Square
-                        West End, London WC2H 7LU UK</a></i>
+                        New york, Block 7LU Ma</a></i>
                 &nbsp;&nbsp;&nbsp;
-                <i class="bi  bi-telephone d-flex align-items-center ms-4"><span>+44 7908 617669</span></i>
+                <i class="bi  bi-telephone d-flex align-items-center ms-4"><span>+1 7908 617669</span></i>
             </div>
             <div class="social-links d-none d-md-flex align-items-center">
                 <a href="{{ route('user.login') }}">
